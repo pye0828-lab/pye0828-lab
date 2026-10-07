@@ -6,17 +6,6 @@
 
 ---
 
-### 🚀 Projects
-
-| 프로젝트 | 설명 |
-|---|---|
-| [MotionView](https://github.com/pye0828-lab/MotionView) | 3축 가속도 데이터를 시각화하는 데스크톱 GUI 툴 (PySide6 + pyqtgraph) |
-| [kakaomap_coverage](https://github.com/pye0828-lab/kakaomap_coverage) | 카카오맵 기반 커버리지(반경)·거리 측정 지도 도구 |
-| [googlemap_coverage](https://github.com/pye0828-lab/googlemap_coverage) | Google Maps 기반 커버리지·거리·영역 측정 도구 (해외판) |
-| ff-overlay-translator | 안드로이드 화면 오버레이 번역 앱 *(준비 중)* |
-
----
-
 ### 📁 Repository Naming Rule
 
 레포 이름은 **`대상_OS_역할_이름`** 형식입니다.
